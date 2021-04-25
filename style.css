@@ -1,0 +1,16 @@
+img{
+    width: 70%;
+    text-align: center;
+    display: block;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: green;
+    text-align: center;
+}
